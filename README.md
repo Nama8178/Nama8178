@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm passionate about creating intelligent systems using Machine Learning and building dynamic, responsive web applications. My experience spans across various technologies, including:
 
-- **Machine Learning & AI**: Python, TensorFlow, OpenCV, MediaPipe, Scikit-learn, Natural Language Processing
+- **Machine Learning & AI**: Python, OpenCV, MediaPipe, Scikit-learn, Natural Language Processing
 - **Web Development**: HTML, CSS, JavaScript, React, Flask, Django
 - **Embedded Systems**: Raspberry Pi, ESP32, Verilog, VHDL
 
@@ -25,7 +25,7 @@ With a strong background in both **Machine Learning** and **Web Development**, I
 
 ## 🛠️ **Skills & Tools**
 - **Programming Languages**: Python, JavaScript, C/C++, HTML, CSS
-- **Libraries & Frameworks**: OpenCV, MediaPipe, TensorFlow, Flask, Django, React
+- **Libraries & Frameworks**: OpenCV, MediaPipe, Flask, Django, React
 - **Databases**: MySQL, Appwrite, MongoDB
 - **Version Control**: Git, GitHub
 - **Embedded Systems**: Raspberry Pi, Verilog, VHDL, ESP32/8266
