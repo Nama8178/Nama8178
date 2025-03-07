@@ -1,59 +1,100 @@
-# 👋 Hello! I'm Aman
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/604897f3-9570-437d-a3e5-3f102d9a3cc9)<br clear="both">
 
-🎓 **Machine Learning Enthusiast** | 💻 **Web Developer** | 🚀 **Tech Explorer**
+<h2 align="left">👋 Hello! I'm Aman</h2>
 
-Welcome to my GitHub profile! I'm passionate about creating intelligent systems using Machine Learning and building dynamic, responsive web applications. My experience spans across various technologies, including:
+###
 
-- **Machine Learning & AI**: Python, OpenCV, MediaPipe, Scikit-learn, Natural Language Processing
-- **Web Development**: HTML, CSS, JavaScript, React, Flask, Django
-- **Embedded Systems**: Raspberry Pi, ESP32, Verilog, VHDL
+<br clear="both">
 
----
+<h5 align="left">🎓 Machine Learning Enthusiast | 💻 Web Developer | 🚀 Tech Explorer</h5>
 
-![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b](https://github.com/user-attachments/assets/095ffad7-08d9-4692-9c57-ffd46a0539f7)
+###
 
----
+<br clear="both">
 
-## 💡 **About Me**
-With a strong background in both **Machine Learning** and **Web Development**, I love combining these fields to develop innovative solutions. Whether it's building interactive web applications or diving into data science projects, I'm always eager to learn and take on new challenges.
+<p align="left">Welcome to my GitHub profile! I'm passionate about creating intelligent systems using Machine Learning and building dynamic, responsive web applications. My experience spans across various technologies, including:<br><br>Machine Learning & AI: Python, OpenCV, MediaPipe, Scikit-learn, Natural Language Processing<br>Web Development: HTML, CSS, JavaScript, React, Flask, Django<br>Embedded Systems: Raspberry Pi, ESP32, Verilog, VHDL</p>
 
-- 🔍 Currently exploring new frontiers in **Deep Learning** and **Full-Stack Web Development**.
-- 🌱 Learning and experimenting with **Computer Vision**, **Natural Language Processing**, and **Edge AI**.
-- 🎨 Recently built a **Virtual Painter** using OpenCV and MediaPipe—check it out in my repositories!
+###
 
----
+<br clear="both">
 
-## 🛠️ **Skills & Tools**
-- **Programming Languages**: Python, JavaScript, C/C++, HTML, CSS
-- **Libraries & Frameworks**: OpenCV, MediaPipe, Flask, Django, React
-- **Databases**: MySQL, Appwrite, MongoDB
-- **Version Control**: Git, GitHub
-- **Embedded Systems**: Raspberry Pi, Verilog, VHDL, ESP32/8266
+<h3 align="left">💡 About Me</h3>
 
----
+###
 
-## 🚀 **Projects**
-Here are some projects I've been working on:
+<br clear="both">
 
-- 🎨 **Virtual Painter**: A hand gesture-based painting tool using OpenCV and MediaPipe.
-- 🌐 **Mega Blog**: A Blog website made using React.js and AppWrite.
-- 💬 **Live ChatApp**: A Real time chatapp using flask(jinja) and SocketIO.
+<p align="left">With a strong background in both Machine Learning and Web Development, I love combining these fields to develop innovative solutions. Whether it's building interactive web applications or diving into data science projects, I'm always eager to learn and take on new challenges.<br><br>🔍 Currently exploring new frontiers in Deep Learning and Full-Stack Web Development.<br>🌱 Learning and experimenting with Computer Vision, Natural Language Processing, and Edge AI.<br>🎨 Recently built a Virtual Painter using OpenCV and MediaPipe—check it out in my repositories!</p>
 
----
+###
 
-## 📫 **Get in Touch**
-Feel free to connect with me!
+<div align="center">
+  <img height="200" src="![Uploading ezgif.com-video-to-gif-converter.gif…]()
+"  />
+</div>
 
-- 🌐 **LinkedIn**: [Aman Kumar](https://www.linkedin.com/in/aman-kumar-b7758625b/)
-- 📷 **Instagram**: [@tech_learner81](https://www.instagram.com/tech_learner81/))
-- 🐱 **GitHub**: [Nama8178](https://github.com/Nama8178)
+###
 
----
+<br clear="both">
 
+<h3 align="left">🛠️ Skills & Tools</h3>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+</div>
 
-<!---
-Nama8178/Nama8178 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<br clear="both">
+
+<h3 align="left">📫 Get in Touch</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
