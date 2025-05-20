@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Aman
 
-🎓 **Machine Learning Enthusiast** | 💻 **Web Developer** | 🚀 **Tech Explorer**
+🎓 **Machine Learning Enthusiast** | 💻 **Web Developer** | 🚀 **Firmware Developer**
 
 Welcome to my GitHub profile! I'm passionate about creating intelligent systems using Machine Learning and building dynamic, responsive web applications. My experience spans across various technologies, including:
 
