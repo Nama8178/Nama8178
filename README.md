@@ -1,12 +1,19 @@
-<h1 align="center">👋 Hello! I'm Aman</h1>
+<table align="center" width="100%">
+  <tr>
+    <td align="left" valign="top" style="width: 60%; border-right: 2px solid #444; padding: 20px 40px;">
+      <h1 style="font-size: 32px;">👋 HELLO,<br> I’M <span style="color:#007acc">AMAN KUMAR</span></h1>
+      <p style="font-size: 18px;">
+        🎯 <b>Embedded Systems Developer</b><br>
+        ⚙️ <b>Firmware Enthusiast</b><br>
+        💡 <b>C/C++ Programmer</b>
+      </p>
+    </td>
+    <td align="center" valign="top" style="width: 40%; padding: 20px;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  🎯 <b>Embedded Systems Developer</b> | ⚙️ <b>Firmware Enthusiast</b> | 💡 <b>C/C++ Programmer</b>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
 
 ---
 
@@ -63,19 +70,21 @@ With a strong background in **Embedded Systems** and **Firmware Development**, I
 </p>
 
 ## 📊 GitHub Overview
+---
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
-      <b>🌟 GitHub Stats</b><br>
+      <b>📊 GitHub Stats</b><br>
       <img src="https://github-readme-stats.vercel.app/api?username=Nama8178&show_icons=true&theme=tokyonight&hide_title=true" />
     </td>
     <td align="center">
-      <b>💻 Top Languages</b><br>
+      <b>💻 Most Used Languages</b><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nama8178&hide=jupyter%20notebook,html,css,javascript&langs_count=6&layout=compact&theme=tokyonight" />
     </td>
   </tr>
 </table>
+
 
 
 
