@@ -62,11 +62,23 @@ With a strong background in **Embedded Systems** and **Firmware Development**, I
   </a>
 </p>
 
----
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nama8178&show_icons=true&theme=tokyonight" alt="Aman's GitHub Stats"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <b>🌟 GitHub Stats</b><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=Nama8178&show_icons=true&theme=tokyonight&hide_title=true" />
+    </td>
+    <td align="center">
+      <b>💻 Top Languages</b><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nama8178&hide=jupyter%20notebook,html,css,javascript&langs_count=6&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 <!---
 Nama8178/Nama8178 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
