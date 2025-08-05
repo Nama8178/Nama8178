@@ -1,58 +1,74 @@
-# 👋 Hello! I'm Aman
+<h1 align="center">👋 Hello! I'm Aman</h1>
 
-🎓 **Machine Learning Enthusiast** | 💻 **Web Developer** | 🚀 **Firmware Developer**
+<p align="center">
+  🎯 <b>Embedded Systems Developer</b> | ⚙️ <b>Firmware Enthusiast</b> | 💡 <b>C/C++ Programmer</b>
+</p>
 
-Welcome to my GitHub profile! I'm passionate about creating intelligent systems using Machine Learning and building dynamic, responsive web applications. My experience spans across various technologies, including:
-
-- **Machine Learning & AI**: Python, OpenCV, MediaPipe, Scikit-learn, Natural Language Processing
-- **Web Development**: HTML, CSS, JavaScript, React, Flask, Django
-- **Embedded Systems**: Raspberry Pi, ESP32, Verilog, VHDL
-
----
-![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b](https://github.com/user-attachments/assets/095ffad7-08d9-4692-9c57-ffd46a0539f7)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ---
 
-## 💡 **About Me**
-With a strong background in both **Machine Learning** and **Web Development**, I love combining these fields to develop innovative solutions. Whether it's building interactive web applications or diving into data science projects, I'm always eager to learn and take on new challenges.
+## 💡 About Me
 
-- 🔍 Currently exploring new frontiers in **Deep Learning** and **Full-Stack Web Development**.
-- 🌱 Learning and experimenting with **Computer Vision**, **Natural Language Processing**, and **Edge AI**.
-- 🎨 Recently built a **Virtual Painter** using OpenCV and MediaPipe—check it out in my repositories!
+With a strong background in **Embedded Systems** and **Firmware Development**, I enjoy working close to the hardware, optimizing code for constrained environments, and building real-world IoT solutions.
 
----
-
-## 🛠️ **Skills & Tools**
-- **Programming Languages**: Python, JavaScript, C/C++, HTML, CSS
-- **Libraries & Frameworks**: OpenCV, MediaPipe, Flask, Django, React
-- **Databases**: MySQL, Appwrite, MongoDB
-- **Version Control**: Git, GitHub
-- **Embedded Systems**: Raspberry Pi, Verilog, VHDL, ESP32/8266
+- 🔧 Currently working on **ESP32**, **STM32 (Black Pill)**, and **GSM (Quectel M65)** based firmware projects.
+- 📡 Building connected systems using **MQTT**, **Modbus RTU**, and **HTTP over GPRS**.
+- 🔋 Exploring **Edge AI**, **Bare-metal C**, and **real-time communication** with peripherals.
+- 🧪 Prototyping PCBs and interfacing modules like **DS1307**, **OLED**, and **Relays**.
 
 ---
 
-## 🚀 **Projects**
-Here are some projects I've been working on:
+## 🛠️ Skills & Tools
 
-- 🎨 **Virtual Painter**: A hand gesture-based painting tool using OpenCV and MediaPipe.
-- 🌐 **Mega Blog**: A Blog website made using React.js and AppWrite.
-- 💬 **Live ChatApp**: A Real time chatapp using flask(jinja) and SocketIO.
-
----
-
-## 📫 **Get in Touch**
-Feel free to connect with me!
-
-- 🌐 **LinkedIn**: [Aman Kumar](https://www.linkedin.com/in/aman-kumar-b7758625b/)
-- 📷 **Instagram**: [@tech_learner81](https://www.instagram.com/tech_learner81/))
-- 🐱 **GitHub**: [Nama8178](https://github.com/Nama8178)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=esphome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PlatformIO-000000?style=for-the-badge&logo=platformio&logoColor=F48C00"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
+## 🚀 Projects
 
+- 📟 **ESP32 + GSM HTTP Client**: HTTP GET over Airtel GPRS using AT commands via Quectel M65 on UART2.
+- ⚡ **Growatt Inverter Logger**: ESP32-based Modbus RTU data acquisition and MQTT publisher to HiveMQ.
+- 🧠 **Edge ML on ESP32**: Lightweight ML model deployment using TensorFlow Lite Micro on ESP32.
+- ⌨️ **Virtual Painter**: Hand gesture-based paint tool using OpenCV + MediaPipe.
+- 💬 **Live ChatApp**: Real-time Flask & SocketIO-based chat app.
+- 🌐 **Mega Blog**: Blog platform using React.js and Appwrite.
 
+---
+
+## 📫 Get in Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aman-kumar-b7758625b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/tech_learner81/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nama8178">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nama8178&show_icons=true&theme=tokyonight" alt="Aman's GitHub Stats"/>
+</p>
 
 <!---
-Nama8178/Nama8178 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nama8178/Nama8178 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
