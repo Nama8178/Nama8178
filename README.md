@@ -46,8 +46,6 @@ With a strong background in **Embedded Systems** and **Firmware Development**, I
 
 ## 🚀 Projects
 
-- 📟 **ESP32 + GSM HTTP Client**: HTTP GET over Airtel GPRS using AT commands via Quectel M65 on UART2.
-- ⚡ **Growatt Inverter Logger**: ESP32-based Modbus RTU data acquisition and MQTT publisher to HiveMQ.
 - 🧠 **Edge ML on ESP32**: Lightweight ML model deployment using TensorFlow Lite Micro on ESP32.
 - ⌨️ **Virtual Painter**: Hand gesture-based paint tool using OpenCV + MediaPipe.
 - 💬 **Live ChatApp**: Real-time Flask & SocketIO-based chat app.
