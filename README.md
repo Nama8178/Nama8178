@@ -1,19 +1,18 @@
 <table align="center" width="100%">
   <tr>
-    <td align="left" valign="top" style="width: 60%; border-right: 2px solid #444; padding: 20px 40px;">
-      <h1 style="font-size: 32px;">👋 HELLO,<br> I’M <span style="color:#007acc">AMAN KUMAR</span></h1>
-      <p style="font-size: 18px;">
+    <td align="left" valign="top" style="width: 60%; border-right: 2px solid #444; padding: 20px;">
+      <h1 style="font-size: 32px; border-bottom: none;">👋 HELLO,<br> I’M <span style="color:#007acc">AMAN KUMAR</span></h1>
+      <p style="font-size: 18px; line-height: 1.6;">
         🎯 <b>Embedded Systems Developer</b><br>
         ⚙️ <b>Firmware Enthusiast</b><br>
         💡 <b>C/C++ Programmer</b>
       </p>
     </td>
-    <td align="center" valign="top" style="width: 40%; padding: 20px;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+    <td align="center" valign="middle" style="width: 40%; padding: 20px;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -39,7 +38,22 @@ With a strong background in **Embedded Systems** and **Firmware Development**, I
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nama8178&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Aman's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nama8178&langs_count=8&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nama8178&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -62,32 +76,7 @@ With a strong background in **Embedded Systems** and **Firmware Development**, I
   <a href="https://www.instagram.com/tech_learner81/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://github.com/Nama8178">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-## 📊 GitHub Overview
----
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <b>📊 GitHub Stats</b><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=Nama8178&show_icons=true&theme=tokyonight&hide_title=true" />
-    </td>
-    <td align="center">
-      <b>💻 Most Used Languages</b><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nama8178&hide=jupyter%20notebook,html,css,javascript&langs_count=6&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-<!---
-Nama8178/Nama8178 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
