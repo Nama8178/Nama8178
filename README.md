@@ -44,13 +44,13 @@ With a strong background in **Embedded Systems** and **Firmware Development**, I
 
 ## 📊 GitHub Overview
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nama8178&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Aman's GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nama8178&langs_count=8&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nama8178&theme=tokyonight" alt="GitHub Streak" />
