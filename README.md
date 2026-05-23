@@ -44,16 +44,13 @@ With a strong background in **Embedded Systems** and **Firmware Development**, I
 
 ## 📊 GitHub Overview
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nama8178&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Aman's GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Nama8178&show_icons=true&count_private=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Aman's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nama8178&langs_count=8&layout=compact&bg_color=0d1117&border_color=30363d&title_color=c9d1d9&text_color=c9d1d9" alt="Top Languages" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nama8178&langs_count=8&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nama8178&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Nama8178&background=141622&border=ff007f&stroke=ffffff&ring=00f0ff&fire=ff007f&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f0ff&sideLabels=ffffff" alt="GitHub Streak" />
 </p>
 
 ---
