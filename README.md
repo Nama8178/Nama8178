@@ -59,7 +59,6 @@ With a strong background in **Embedded Systems** and **Firmware Development**, I
 
 - 🧠 **Edge ML on ESP32**: Lightweight ML model deployment using TensorFlow Lite Micro on ESP32.
 - ⌨️ **Virtual Painter**: Hand gesture-based paint tool using OpenCV + MediaPipe.
-- 💬 **Live ChatApp**: Real-time Flask & SocketIO-based chat app.
 - 🌐 **Mega Blog**: Blog platform using React.js and Appwrite.
 
 ---
