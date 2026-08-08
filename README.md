@@ -50,7 +50,7 @@ With a strong background in **Embedded Systems** and **Firmware Development**, I
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nama8178&background=141622&border=ff007f&stroke=ffffff&ring=00f0ff&fire=ff007f&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f0ff&sideLabels=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Nama8178&background=141622&border=ff007f&stroke=ffffff&ring=00f0ff&fire=ff007f&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f0ff&sideLabels=ffffff%22%20alt=%22GitHub%20Streak" />
 </p>
 
 ---
