@@ -20,7 +20,7 @@
 
 With a strong background in **Embedded Systems** and **Firmware Development**, I enjoy working close to the hardware, optimizing code for constrained environments, and building real-world IoT solutions.
 
-- 🔧 Currently working on **ESP32**, **STM32**, and **GSM (Quectel M65)** based firmware projects.
+- 🔧 Currently working on **ESP32**, **STM32**, and **GSM (Quectel M65 and Quectel EC600)** based firmware projects.
 - 📡 Building connected systems using **MQTT**, **Modbus RTU**, and **HTTP over GPRS**.
 - 🔋 Exploring **Edge AI**, **Bare-metal C**, and **real-time communication** with peripherals.
 - 🧪 Prototyping PCBs and interfacing modules like **DS1307**, **OLED**, and **Relays**.
